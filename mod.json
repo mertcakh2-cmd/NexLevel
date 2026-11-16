@@ -1,1 +1,34 @@
 
+{
+    "geode": "$GEODE_VERSION",
+
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+
+    "id": "mertcakh2.nexlevel",
+
+    "name": "NexLevel",
+
+    "version": "1.0.0",
+
+    "developer": "mertcakh2-cmd",
+
+    "description": "A custom Geometry Dash level expansion.",
+
+    "resources": {
+        "files": [
+            "resources/level1/level.txt",
+            "resources/level1/Sound.mp3"
+        ]
+    },
+
+    "tags": [
+        "gameplay",
+        "content",
+        "offline"
+    ]
+}
